@@ -388,6 +388,15 @@ form btn2{
     width: 25px;
     margin-left: 10px;
 }
+.image-box img{
+    width: 500px;
+    display: block;
+}
+.image-box{
+    position: absolute;
+    bottom: 0;
+    right: 20%;
+}
 
 /*media queries*/
 nav .fas{

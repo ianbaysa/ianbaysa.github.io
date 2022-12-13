@@ -433,6 +433,7 @@ nav .fas{
         color: teal;
         font-size: 15px;
         font-weight: 600;
+        white-space: no wrap;
     }
     #header .text.first-text{
         color: var(--text-color);

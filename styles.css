@@ -407,11 +407,11 @@ nav .fas{
     } 
     
     #header p{
-        font-size: 50px;
+        font-size: 40px;
         font-weight: 700;
     }
     #header h1{
-        font-size: 50px;
+        font-size: 45px;
         line-height: 40px;
         margin-left: -10px;
         color: transparent;
@@ -431,7 +431,7 @@ nav .fas{
     #header .text{
         position: relative;
         color: teal;
-        font-size: 25px;
+        font-size: 20px;
         font-weight: 500;
     }
     #header .text.first-text{
